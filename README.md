@@ -16,8 +16,8 @@ This lab simulates settting up a work Active directory e3nviroment, setting up a
 <h2>SET-UP</h2>
 
 * set-up of Server 2019 once the VM was set up I started with setting up the InterNet and the IntraNet NIC's one would allow outside connections to the server (this is needed to download scripts and update softwear) latter in the lab the outside connection will be of use. 
-*intraNet ip used 172.16.0.1 DNS 255.255.255.0  gateway used is a loopback 127.0.0.1 this NIC was set-up in the VM as the secound Adaptor.
-
+* IntraNet ip used 172.16.0.1 DNS 255.255.255.0  gateway used is a loopback 127.0.0.1 this NIC was set-up in the VM as the secound Adaptor.
+* Change the compter name by right click on the start menu - ISAC - just to make things easier when dealing with diffrent comuters on a server map.
 
 
 
