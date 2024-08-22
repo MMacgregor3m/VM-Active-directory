@@ -11,7 +11,7 @@ Set up two VM machines. The first one would be the Server/Server2019 the second 
 As an aspiring SOC analyst, I was eager to expand my skills through a Active Directory lab, which provided an excellent opportunity to showcase my capabilities. The lab offered a comprehensive overview of industry tools and frameworks, allowing me to gain hands-on experience. Working with Active Direcetory, and incredibly informative.
 
 <h3>Project:</h3>
-This lab simulates settting up a work Active directory e3nviroment, setting up a oganazational unit with one Admin with will be me and 1000 users that will be added via as powerShell script the was provided by Josh Madakor from his github respostory. 
+This lab simulates settting up a work Active directory enviroment, setting up a oganazational unit with one Admin with will be me and 1000 users that will be added via as powerShell script the was provided by Josh Madakor from his github respostory. 
 
 <h2>SET-UP</h2>
 
