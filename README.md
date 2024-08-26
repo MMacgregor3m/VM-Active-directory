@@ -22,23 +22,3 @@ This lab simulates settting up a work Active directory enviroment, setting up a 
 * active directory domain services/added root forest
 * start menu administrative tools (this is where I missed a step added users and groups I kept adding my name for the admin forgeting to add the group _ADMINS_ first once I remembered that it was smooth sailing.
 
-
-
-<h3>fillins</h3>
-Homelab testing malware detection with splunk
-
-## Project 2 ##
-Building a home lab to have a safe area to pratice malware depolyment and detection
-the first part was setting up the work enviroment - a Windows 10 Pro Defender Virtual Box with a Kali linux attack box
-first step in building this home lab - was to make sure all tools and enviroments on the windows system would be set tools needed will be Splunk ( free trail) also Sysmon download on the Win sys.   
-the use of sysmonconfig.xml from olafhartong/sysmon-modular. the use of Powershell and CMD was used. 
-the WIN sys will be a bare bones system - Defender and any and all virus protection will be turned off the main goal is to use and  </p>
-
-
-
-
-
-a walk through on my first AD project 
-Setting up an Active directy using Server 2019 and windows 10 pro on a VM virtual box. Ran into some issues did come up the first night trying to get the to VM's to work 
-this required me to do a youtube look up which had me going to Josh Madakor youtube channel on setting up an active diriectry which is the base that i used for the project.
-this is the project that i used https://www.youtube.com/watch?v=MHsI8hJmggI&t=1423s
