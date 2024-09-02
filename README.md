@@ -24,3 +24,6 @@ This lab simulates settting up a work Active directory enviroment, setting up a 
 * active directory domain services/added root forest
 * start menu administrative tools (this is where I missed a step added users and groups I kept adding my name for the admin forgeting to add the group _ADMINS_ first once I remembered that it was smooth sailing.
 
+  ![My Image](Images/users.PNG)
+
+
