@@ -1,21 +1,22 @@
 ##VM-Active-directory##
 <h2>Objectives:</h2>
 
-Set up two VM machines. The first one would be the Server/Server2019 the second Windows 10 Pro.
+Set up two VM machines. The first one would be the Server/Server2019, the second Windows 10 Pro.
 
-•	Server 2019 Active direcetory - use of a 1000 users powershell Script to added users   
-
-•	Windows 10 Pro system to access server system
+* VitrualBox
+*	Server 2019 ISO Active direcetory - use of a 1000 users powershell Script to added users   
+*	Windows 10 Pro ISO system to access server system
 
 <h3>Experience:</h3>
 As an aspiring SOC analyst, I was eager to expand my skills through a Active Directory lab, which provided an excellent opportunity to showcase my capabilities. The lab offered a comprehensive overview of industry tools and frameworks, allowing me to gain hands-on experience. Working with Active Direcetory, and incredibly informative.
 
 <h3>Project:</h3>
+
 This lab simulates settting up a work Active directory enviroment, setting up a oganazational unit with one Admin with will be me and 1000 users that will be added via as powerShell script the was provided by Josh Madakor from his github respostory. 
 
 <h2>SET-UP</h2>
 Server 2019 (RAS/NAT outside = Internet inside = Intranet) once the VM was set up I started with setting up the InterNet and the IntraNet NIC's one would allow outside connections to the server (this is needed to download scripts and update softwear) latter in the lab the outside connection will be of use.
-
+was inspired to build my own POWERSHELL script to install names to  including a Python name ganerator script 
 ![active directory](ADinstall.PNG)
 
 * Domain /AD DS = FQDN ISAC.COM
