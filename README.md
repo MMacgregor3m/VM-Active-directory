@@ -16,7 +16,7 @@ This lab simulates settting up a work Active directory enviroment, setting up a 
 
 <h2>SET-UP</h2>
 Server 2019 (RAS/NAT outside = Internet inside = Intranet) once the VM was set up I started with setting up the InterNet and the IntraNet NIC's one would allow outside connections to the server (this is needed to download scripts and update software) latter in the lab the outside connection will be of use, was inspired to build my own POWERSHELL script to install names to  including a Python name ganerator script 
-Github.com - project link
+namegen.py
 
 ![active directory](ADinstall.PNG)
 
