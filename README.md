@@ -15,8 +15,9 @@ As an aspiring SOC analyst, I was eager to expand my skills through a Active Dir
 This lab simulates settting up a work Active directory enviroment, setting up a oganazational unit with one Admin with will be me and 1000 users that will be added via as powerShell script the was provided by Josh Madakor from his github respostory. 
 
 <h2>SET-UP</h2>
-Server 2019 (RAS/NAT outside = Internet inside = Intranet) once the VM was set up I started with setting up the InterNet and the IntraNet NIC's one would allow outside connections to the server (this is needed to download scripts and update softwear) latter in the lab the outside connection will be of use.
-was inspired to build my own POWERSHELL script to install names to  including a Python name ganerator script 
+Server 2019 (RAS/NAT outside = Internet inside = Intranet) once the VM was set up I started with setting up the InterNet and the IntraNet NIC's one would allow outside connections to the server (this is needed to download scripts and update software) latter in the lab the outside connection will be of use, was inspired to build my own POWERSHELL script to install names to  including a Python name ganerator script 
+Github.com - project link
+
 ![active directory](ADinstall.PNG)
 
 * Domain /AD DS = FQDN ISAC.COM
@@ -35,8 +36,8 @@ was inspired to build my own POWERSHELL script to install names to  including a 
 ![DHCP](Images/DHCP.PNG)
 
 * Start menu administrative tools (This is where I missed a step added users and groups I kept adding my name for the admin forgeting to add the group _ADMINS_ first once I remembered that it was smooth sailing.
-* 
+ 
 
-  ![My Image](Images/Admins.PNG)
+![My Image](Images/Admins.PNG)
 
 
